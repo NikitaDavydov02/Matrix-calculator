@@ -1,0 +1,9 @@
+D:\Документы\C#\Матрицы\Матрицы\bin\Debug\Матрицы.exe.config
+D:\Документы\C#\Матрицы\Матрицы\bin\Debug\Матрицы.exe
+D:\Документы\C#\Матрицы\Матрицы\bin\Debug\Матрицы.pdb
+D:\Документы\C#\Матрицы\Матрицы\obj\Debug\Матрицы.csprojAssemblyReference.cache
+D:\Документы\C#\Матрицы\Матрицы\obj\Debug\Матрицы.Form1.resources
+D:\Документы\C#\Матрицы\Матрицы\obj\Debug\Матрицы.Properties.Resources.resources
+D:\Документы\C#\Матрицы\Матрицы\obj\Debug\Матрицы.csproj.GenerateResource.cache
+D:\Документы\C#\Матрицы\Матрицы\obj\Debug\Матрицы.exe
+D:\Документы\C#\Матрицы\Матрицы\obj\Debug\Матрицы.pdb
